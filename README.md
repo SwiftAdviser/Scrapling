@@ -98,6 +98,14 @@ MySpider().start()
 # Platinum Sponsors
 <table>
   <tr>
+    <td width="240">
+      <a href="https://proxylane.dev/?utm_source=scrapling&amp;utm_medium=partnership&amp;utm_campaign=scrapling_platinum_202609&amp;utm_content=github_readme" target="_blank" title="ProxyLane residential proxies">
+        <img src="images/proxylane.png" width="240" height="100" alt="ProxyLane">
+      </a>
+    </td>
+    <td><a href="https://proxylane.dev/?utm_source=scrapling&amp;utm_medium=partnership&amp;utm_campaign=scrapling_platinum_202609&amp;utm_content=github_readme" target="_blank"><b>ProxyLane</b></a> — 28M clean residential IPs. HTTP/SOCKS5, rotating/sticky sessions, city targeting. Non-expiring traffic. $1.95/350MB trial. SCRAPLING25: 25% off one purchase, once per account.</td>
+  </tr>
+  <tr>
     <td width="200">
       <a href="https://coldproxy.com/?utm_source=scrapling&utm_medium=sponsorship&utm_campaign=202609-scrapling-readme&utm_content=platinum-badge&promo=SCRAPLING5" target="_blank" title="Residential, IPv6 & Datacenter Proxies for Web Scraping">
         <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/coldproxy.png">
