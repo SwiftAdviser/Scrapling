@@ -237,7 +237,7 @@ MySpider().start()
         <img src="images/proxylane-premium.png" width="240" height="100" alt="ProxyLane - Premium residential proxies">
       </a>
     </td>
-    <td>28M clean residential IPs for reliable scraping and browser automation. Non-expiring traffic. 195 countries. Sticky/rotating sessions. City/ISP/ASN targeting. $1.95/350MB trial. SCRAPLING25: 25% off one purchase.</td>
+    <td>ProxyLane: 28M clean residential IPs for reliable scraping and browser automation. Non-expiring traffic. 195 countries. Sticky/rotating sessions. City/ISP/ASN targeting. $1.95/350MB trial. SCRAPLING25: 25% off one purchase.</td>
   </tr>
 </table>
 
