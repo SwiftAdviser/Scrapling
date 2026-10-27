@@ -182,7 +182,7 @@ This prints `10` and saves the quotes and authors to `quotes.json`.
   <tr>
     <td width="200">
       <a href="https://proxylane.dev/scrapling?utm_source=scrapling&utm_medium=affiliate&utm_campaign=scrapling_platinum_202609&utm_content=github_readme" target="_blank" title="Clean residential IPs for Scrapling. Try 350 MB for $1.95.">
-        <img src="https://raw.githubusercontent.com/SwiftAdviser/Scrapling/proxylane-banner-2026-10/images/proxylane.png?v=2" alt="ProxyLane: 90% fewer CAPTCHAs, clean IPs for $1.95">
+        <img src="https://raw.githubusercontent.com/SwiftAdviser/Scrapling/proxylane-banner-2026-10/images/proxylane.png?v=3" alt="ProxyLane: 90% fewer CAPTCHAs, clean IPs for $1.95">
       </a>
     </td>
     <td>
